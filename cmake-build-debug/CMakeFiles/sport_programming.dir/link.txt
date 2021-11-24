@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\sport_programming.dir/objects.a
+D:\gcc\bin\ar.exe cr CMakeFiles\sport_programming.dir/objects.a @CMakeFiles\sport_programming.dir\objects1.rsp
+D:\gcc\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\sport_programming.dir/objects.a -Wl,--no-whole-archive -o sport_programming.exe -Wl,--out-implib,libsport_programming.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\sport_programming.dir\linklibs.rsp
