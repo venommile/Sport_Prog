@@ -1,3 +1,0 @@
-C:/Users/galts/CLionProjects/sport_programming/cmake-build-debug/CMakeFiles/sport_programming.dir
-C:/Users/galts/CLionProjects/sport_programming/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/galts/CLionProjects/sport_programming/cmake-build-debug/CMakeFiles/rebuild_cache.dir
